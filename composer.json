@@ -20,12 +20,11 @@
         "piggly/php-api-client": "Recomentado para criar requisições HTTP seguras e dinâmicas para as API Pix junto com os Payloads padrões."
     },
     "require": {
-        "php": "^7.2 || ^8.0",
+        "php": "^8.0",
         "ext-gd": "*",
-        "chillerlan/php-qrcode": "^3.3"
+        "chillerlan/php-qrcode": "^4.3"
     },
     "require-dev": {
-        "php": "^7.3 || ^8.0",
         "phpunit/phpunit": "^9.5",
         "fakerphp/faker": "^1.14"
     },
